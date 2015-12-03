@@ -1,0 +1,42 @@
+410 Text Information Systems
+411 Data Base Systems
+412 Intro to Data Warehousing & Min.
+414 Multimedia Systems
+418 Interactive Computer Graphics
+419 Production Computer Graphics
+421 Progrmg Languages & Compilers
+423 Operating Systems Design
+425 Distributed Systems
+428 Software Engineering 2
+431 Embedded Systems Arch. & Soft
+433 Computer System Organization
+438 Communication Networks 440 Aritificial Intelligence
+446 Machine Learning
+450 Numerical Analysis
+460 Security Lab
+461 Computer Security I
+463 Computer Security II
+465 User Interface Design
+466 Bioinformatics
+467 Social Visualization
+473 Algorithms
+477 Formal Software Devel Methods
+482 Computer Simulation Modeling
+484 Parallel Programming
+493 Senior Project 2
+498 various topics
+511 Advanced Data Management
+512 Data Mining Principles
+519 Scientific Visualization
+522 Programming Language Semantics
+525 Advanced Distrib. Systems
+526 Advanced Compiler Construction
+533 Parallel Computer Architecture
+543 Computer Vision
+544 Optimization in Computer Vision
+546 Advanced Machine Learning
+555 Numerical Methods for PDEs
+565 Human-Computer Interaction
+576 Topics in Automated Deduction
+579 Computational Complexity
+598 various topics

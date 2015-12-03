@@ -1,0 +1,30 @@
+411 Data Base Systems
+418 Interactive Computer Graphics
+420 Parallel Progrmg: Sci & Engrg
+421 Progrmg Languages & Compilers
+422 Programming Lang. Design
+424 Real-Time Systems
+425 Distributed Systems
+426 Compiler Construction
+427 Software Engineering 1
+431 Embedded Systems Arch. & Soft
+433 Computer System Organization
+438 Communication Networks ECE
+440 Aritificial Intelligence
+446 Machine Learning
+447 Natural Language Processing
+450 Numerical Analysis
+461 Computer Security I ECE
+465 User Interface Design
+473 Algorithms
+476 Program Verification
+481 Stochastic Processes
+492 Senior Project 1
+498 misc topics
+523 Advanced Operating Systems
+527 Advanced Software Engineering
+538 Advanced Computer Networks
+554 Parallel Numerical Algorithms
+556 Iteractive and Multigrid Methods
+563 Advanced Computer Security
+598 misc topics
