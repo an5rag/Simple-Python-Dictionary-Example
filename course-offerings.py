@@ -13,7 +13,7 @@ fall_dictionary = dict()
 spring_dictionary = dict()
 
 
-# split individual space-separatd-words in the first line of the Fall file into an python list
+# split individual space-separated-words in the first line of the Fall file into a python list
 course = fall_file.readline().split()
 
 # construct fall_dictionary
